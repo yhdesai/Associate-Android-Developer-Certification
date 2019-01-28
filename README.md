@@ -37,10 +37,10 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - Write and execute a local JVM unit test
   - [X] [[Fragmented Podcast] Episode 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [X] [[Fragmented Podcast] Episode 7 Jake Wharton on Testing, SqlBrite, NotRxAndroid, RxJava and Much More](http://fragmentedpodcast.com/episodes/7/) 
-  - [ ] Getting Started with Testing 
+  - [X] Getting Started with Testing 
     - [X] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [X] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
-    - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
+    - [X] (paid) [Treehouse Testing in Android Course][treehouse_testing_course]
   - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
   - [ ] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
   - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
