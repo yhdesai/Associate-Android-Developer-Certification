@@ -41,36 +41,36 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
     - [X] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [X] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
     - [X] (paid) [Treehouse Testing in Android Course][treehouse_testing_course]
-  - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
-  - [ ] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
-  - [ ] [Android Testing Codelab][testing_and_debugging_testing_codelab]
-  - [ ] [Android Testing Samples][testing_and_debugging_android_test_samples]
-  - [ ] [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
-  - [ ] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
-  - [ ] [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
-  - [ ] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
-- [ ] Write and execute a device UI test
-  - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
-  - [ ] [Automating User Interface Tests][testing_debuggin_ui_testing]
-  - [ ] [Espresso][testing_and_debuggin_espresso]
-  - [ ] [UI Automator][testing_and_debuggin_ui_automator]
-  - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
-  - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
-  - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
-  - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
-  - [ ] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
+  - [X] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
+  - [X] [Play List Android Testing Patterns][testing_debuggin_play_list_android_testing_patterns]
+  - [X] [Android Testing Codelab][testing_and_debugging_testing_codelab]
+  - [X] [Android Testing Samples][testing_and_debugging_android_test_samples]
+  - [X] [Android Testing Blueprint][testing_and_debugging_android_testing_blue_print]
+  - [X] [Intro to testing part 1, @riggaroo][testing_and_debugging_intro_testing_reggaroo]
+  - [X]  [Intro to testing part 2, @riggaroo][testing_and_debugging_intro_testing_reggaroo_1]
+  - [X] [Intro to testing part 3, @riggaroo][testing_and_debugging_intro_testing_reggaroo_3]
+  - [X] Write and execute a device UI test
+  - [X] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/)
+  - [X] [Automating User Interface Tests][testing_debuggin_ui_testing]
+  - [X] [Espresso][testing_and_debuggin_espresso]
+  - [X] [UI Automator][testing_and_debuggin_ui_automator]
+  - [X] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
+  - [X] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
+  - [X] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
+  - [X] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
+  - [X] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
-- [ ] Given a problem description, replicate the failure
-  - [ ] [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
-- [ ] Use the system log to output debug information
-     - [ ] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
-     - [ ] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
-- [ ] Debug and fix an application crash (uncaught exception)
-   - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
-- [ ] Debug and fix an activity lifecycle issue
-   - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
-- [ ] Debug and fix an issue binding data to views
-    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+  - [X] Given a problem description, replicate the failure
+  - [X]  [Experts App Clinic:Best Practices when building apps for billions][testing_and_debugging_experts_app_clinic]
+  - [X] Use the system log to output debug information
+       - [X] [[Android Developer Site] Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat.html)
+     - [X] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
+- [X] Debug and fix an application crash (uncaught exception)
+   - [X] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+- [X] Debug and fix an activity lifecycle issue
+   - [X] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
+- [X] Debug and fix an issue binding data to views
+    - [X] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
